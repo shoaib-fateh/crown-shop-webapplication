@@ -35,7 +35,7 @@ class App extends Component {
 	render() {
 		return (
 			<>
-				<Header currentUser={currentUser} />
+				<Header currentUser={this.state.currentUser} />
 				<Routes>
 					<Route
 						path='/'
