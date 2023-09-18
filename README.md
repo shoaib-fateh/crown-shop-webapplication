@@ -10,7 +10,7 @@ This is a web application built using React for an online shopping platform call
 
 ## Installation
 
-1. Clone the repository: `git clone [<repository-url>](https://github.com/shoaib-fateh/crown-shop-webapplicatio)`
+1. Clone the repository: `git clone https://github.com/shoaib-fateh/crown-shop-webapplication.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
